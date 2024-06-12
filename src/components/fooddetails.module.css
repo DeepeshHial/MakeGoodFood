@@ -1,0 +1,28 @@
+.foodcard {
+  width: 795px;
+  height: auto;
+  padding: 30px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  border-radius: 15px;
+  box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.266);
+}
+.innerfoodcard {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+.imagescard {
+  width: 100%;
+  height: auto;
+}
+.details {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.instruction {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+  color: rgba(64, 64, 64, 0.822);
+}

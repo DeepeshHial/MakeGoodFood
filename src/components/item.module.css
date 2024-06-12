@@ -1,0 +1,17 @@
+.maincontainer {
+  display: flex;
+  align-items: center;
+  gap: 10vw;
+  box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.122);
+  margin-top: 10px;
+  border-radius: 10px;
+  height: 150px;
+  padding: 20px;
+}
+.imagecontainer {
+  padding-left: 2vw;
+}
+.names {
+  font-size: large;
+  font-weight: bold;
+}
